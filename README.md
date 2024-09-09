@@ -21,9 +21,25 @@ PLS follow this template/format when naming ur assets
 
 **[Project]-[Message role/alert type]-[Asset type]-[Name]-[Variant]-[Extra info]**
 
+Possible asset types:
+- Accent
+
+Possible message roles:
+- Broadcaster
+- Moderator
+- Subscriber
+- VIP (rarely used)
+- Normal
+
+Possible alert types:
+- Subscribe
+- Tip
+- Cheer
+
 For example:
 ```
-Frog-Subscriber-SideAccent-Branch-L-Overlay20.svg
+Frog-Subscriber-Accent-Branch-InsideL-Overlay20.svg
+Frog-Moderator-Accent-Star-OutsideMR-Overlay20.svg
 ```
 
 ## Syntax and formatting
