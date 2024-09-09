@@ -22,7 +22,8 @@ PLS follow this template/format when naming ur assets
 **[Project]-[Message role/alert type]-[Asset type]-[Name]-[Variant]-[Extra info]**
 
 Possible asset types:
-- Accent
+- Accent (general)
+- Meta (pinned to username)
 
 Possible message roles:
 - Broadcaster
