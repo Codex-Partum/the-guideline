@@ -1,4 +1,4 @@
-# the codex partum guidebook
+# the codex partum guideline
 
 ## Contents
 - [Naming conventions](#naming-conventions)
