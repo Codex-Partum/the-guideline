@@ -1,7 +1,8 @@
-# the lumo lab guidebook
+# the codex partum guidebook
 
 ## Contents
 - [Naming conventions](#naming-conventions)
+- [Asset naming conventions](#asset-naming-conventions)
 - [Syntax and formatting](#synax-and-formatting)
 
 ## Naming Conventions
@@ -14,7 +15,19 @@ We always want to ensure that all of our classes and settings are meaningfully n
 - Only use `class` and never `id`
     - `id` is used for data purposes
 
-### BEM-like naming
+### Asset naming conventions
+
+PLS follow this template/format when naming ur assets
+
+**[Project]-[Message role/alert type]-[Asset type]-[Name]-[Variant]-[Extra info]**
+
+For example:
+```
+Frog-Subscriber-SideAccent-Branch-L-Overlay20.svg
+```
+
+## Syntax and formatting
+*based off BEM syntax*
 
 We split class components into 3 groups:
 - **Block** - The root of the component
@@ -31,3 +44,4 @@ For example:
 Here we can see that `.chat-accent {}` is the block/component.
 `.chat-accent__line {}` is a part of the component
 `.chat-accent--jellyfish {}` is a variant of the `chat-accent`.
+
